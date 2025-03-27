@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a dedicated Computer Science student at the Fe
 ## About Me
 
 - 🌍 Currently studying Computer Science at UFRJ, expected graduation in 2025.
-- 🎓 Completed an MBA in Macroeconomics and Portfolio Management.
 - 🛠️ Proficient in Python, C.
 - 💡 Fluent in English.
 
