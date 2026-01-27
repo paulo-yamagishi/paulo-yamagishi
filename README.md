@@ -15,16 +15,6 @@ Welcome to my GitHub profile! I'm a dedicated Computer Science student at the Fe
 - **Data Science Libraries**: Pandas, NumPy, Matplotlib, scikit-learn, PyTorch
 - **Machine Learning & AI**: Experienced in building and implementing models for various applications.
 
-## Projects
-
-I don’t have any projects in my repository yet, but I’m actively working on it. I’m exploring different ideas, learning new technologies, and refining my skills to build meaningful projects.
-
-## Experience
-
-I don’t have any experience yet, but I’m actively working on gaining it. I’m continuously learning, exploring new technologies, and looking for opportunities to apply my skills in real-world projects.
-
-Feel free to explore my repositories and connect with me on LinkedIn!
-
 ## Contact
 
 - 📧 Email: paulo.ymg@proton.me
