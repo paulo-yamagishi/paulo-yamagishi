@@ -1,21 +1,30 @@
 # Paulo Yamagishi
 
-Welcome to my GitHub profile! I'm a dedicated Computer Science student at the Federal University of Rio de Janeiro (UFRJ), specializing in AI Agents. Passionate about intelligent systems, I explore how AI-driven agents can automate tasks, enhance decision-making, and drive innovation.
+**MSc researcher at COPPE/UFRJ | Combinatorial optimization | AI-augmented development**
 
 ## About Me
 
-- 🌍 Currently studying Computer Science at UFRJ, expected graduation in 2025.
-- 🛠️ Proficient in Python, C.
-- 💡 Fluent in English.
+I'm a Master's student in Systems and Computer Engineering at COPPE/UFRJ (Rio de Janeiro, Brazil), researching combinatorial optimization and integer programming. I hold a BS in Computer Science from UFRJ (GPA 8.4/10) and an MBA in Macroeconomics & Portfolio Management.
+
+## Research
+
+First-author paper at ERMAC 2026 (Florianopolis) on variable fixing for the Set Cover Problem, in collaboration with Prof. Jon Lee (University of Michigan). My work involves developing dual trajectory methods in C/GLPK for large-scale optimization problems.
+
+## AI-Augmented Development
+
+<img src="https://raw.githubusercontent.com/anthropics/claude-code/main/demo.gif" width="600" />
+
+Claude Code is my primary development tool — I rely on it daily for agentic workflows, prompt engineering, and AI-assisted software development.
+
+Check out **[claude-code-setup](https://github.com/paulo-yamagishi/claude-code-setup)** — custom `/setup` and `/bootstrap` skills that audit and auto-configure projects across 11 categories.
 
 ## Skills
 
-- **Programming Languages**: Python, SQL, C, Java, JavaScript
-- **Frameworks & Tools**: Excel
-- **Data Science Libraries**: Pandas, NumPy, Matplotlib, scikit-learn, PyTorch
-- **Machine Learning & AI**: Experienced in building and implementing models for various applications.
+**Languages:** C, C++, Python, JavaScript/TypeScript, SQL, Julia, Java
+
+**Tools:** Git, Linux, Docker, GLPK, Claude Code
 
 ## Contact
 
-- 📧 Email: paulo.ymg@proton.me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/paulo-ymg/)
+- Email: paulo.ymg@proton.me
+- [LinkedIn](https://www.linkedin.com/in/paulo-ymg/)
